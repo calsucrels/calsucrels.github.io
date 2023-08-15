@@ -2042,6 +2042,7 @@ html .group-middle {
 .unit-right {
 	flex: 0 0 auto;
 	max-width: 100%;
+	display:flex;
 }
 
 .unit-spacing-xxs {
