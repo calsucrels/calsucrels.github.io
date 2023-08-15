@@ -779,26 +779,7 @@ a[href*='tel'], a[href*='mailto'] {
 	margin-top: 0;
 }
 
-@media (min-width: 992px) {
-	.desktop .box-icon-modern:hover {
-		box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.17);
-	}
-	.desktop .box-icon-modern:hover .box-icon-modern-icon:after {
-		transform: translate3d(-50%, 0, 0) rotate(0deg);
-	}
-	.desktop .box-icon-modern:hover .box-icon-modern-title {
-		letter-spacing: .1em;
-	}
-	.desktop .box-icon-modern:hover .box-icon-modern-decor::before {
-		left: 50%;
-		right: 50%;
-		transition-duration: .2s;
-	}
-	.desktop .box-icon-modern:hover .box-icon-modern-decor::after {
-		left: 0;
-		right: 0;
-	}
-}
+
 
 @media (min-width: 1200px) {
 	.box-icon-modern-3 {
