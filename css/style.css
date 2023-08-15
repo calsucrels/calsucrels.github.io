@@ -24687,3 +24687,53 @@ img.mfp-img {
 		display: none;
 	}
 }
+
+
+  
+  .conta {
+	display: flex;
+	align-items: center;
+	justify-content:center; /* Cambiamos a centrar horizontalmente */
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+	
+  }
+  
+  .search {
+	display: flex; /* Cambiamos de block a flex */
+	align-items: center;
+	justify-content:center;
+	
+  }
+  
+  .input-location,
+  .input-date,
+  .input-quantity {
+	
+	padding: 5px;
+	margin-right: 10px;
+	border: none;
+	border-radius: 5px;
+	font-size: 15px;
+  }
+  
+  .btn-search {
+	padding: 10px 20px;
+	background-color: #fff;
+	color: #007bff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 14px;
+  }
+  
+  .btn-search:hover {
+	background-color: #f0f0f0;
+  }
+  
+  .input-location{
+	padding: 6px;
+  }
+
+  
