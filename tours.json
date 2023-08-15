@@ -1,7 +1,7 @@
 {
   "tours": [
     {
-      "name": "Rio Partido",
+      "name": "Turismo",
       "date": "28 Julio",
       "price": 1200,
       "featured_image": "/images/tours/rio-partido/flag.png",
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "name": "Santa Fe",
+      "name": "Hoteles",
       "date": "30 Septiembre",
       "price": 3200,
       "featured_image": "/images/tours/santa-fe/img_0020_0.jpg",
